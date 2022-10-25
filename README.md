@@ -24,7 +24,7 @@ Feel free to send me a message.
 <summary>My technical skills
 </summary>
 
-### Languages
+### Languages:
 - Python, SQL
 
 ### Frameworks:
@@ -41,7 +41,7 @@ Feel free to send me a message.
 - Pandas
 - Sklearn
 
-#### Other tools
+#### Other tools:
 - Docker
 - Postgresql
 </details>
